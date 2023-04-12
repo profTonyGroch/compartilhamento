@@ -1,0 +1,21 @@
+.texto1{
+    color:red;
+}
+.texto2{
+    color:yellow;
+}
+header{
+    background-color: #CCCCCC
+}
+body{
+    background-color: blue;
+}
+
+h2{
+    color:coral;
+    font-size: 40px;
+    background-color: aqua;
+}
+#imagem {
+    height: 20 %;
+}
